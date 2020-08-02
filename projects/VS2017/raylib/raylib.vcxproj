@@ -319,6 +319,7 @@
   <ItemGroup>
     <ClInclude Include="..\..\..\src\camera.h" />
     <ClInclude Include="..\..\..\src\external\glad.h" />
+    <ClInclude Include="..\..\..\src\external\glfw\include\GLFW\glfw3.h" />
     <ClInclude Include="..\..\..\src\external\jar_mod.h" />
     <ClInclude Include="..\..\..\src\external\jar_xm.h" />
     <ClInclude Include="..\..\..\src\external\miniaudio.h" />
